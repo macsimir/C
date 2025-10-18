@@ -125,7 +125,7 @@
   <ItemGroup>
     <ClCompile Include="converter.cpp" />
     <ClCompile Include="input.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Lab3.cpp" />
     <ClCompile Include="table.cpp" />
   </ItemGroup>
   <ItemGroup>
